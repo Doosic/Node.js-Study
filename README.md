@@ -12,7 +12,7 @@
 *RabbitMq <br>
 
 ## Language
-*JavaScript <br>
+*TypeScript <br>
 
 ## Database
 *MongoDB<br>
